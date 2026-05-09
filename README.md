@@ -36,8 +36,8 @@ Three sanitized incident response investigations from MSP service desk and secur
 
 Hands-on Microsoft Entra ID lab work in a simulated healthcare environment. Built using Microsoft Entra ID P2 trial features.
 
-- [Microsoft Entra Conditional Access + MFA Lab](Identity-Access-Labs/Microsoft-Entra-Conditional-Access-MFA-Lab/) — Conditional Access policy framework covering MFA enforcement, legacy authentication blocking, location-based access, and admin role protection, with break-glass account discipline and report-only mode validation.
-- [Microsoft Entra Access Review Lab](Identity-Access-Labs/Microsoft-Entra-Access-Review-Lab/) — Access review for an IT admin security group to validate ongoing privileged access need, with documented reviewer decisions and audit log validation.
+- [Microsoft Entra Conditional Access + MFA Lab](Identity-Access-Labs/microsoft-entra-conditional-access-mfa-lab/) — Conditional Access policy framework covering MFA enforcement, legacy authentication blocking, location-based access, and admin role protection, with break-glass account discipline and report-only mode validation.
+- [Microsoft Entra Access Review Lab](Identity-Access-Labs/microsoft-entra-access-review-lab/) — Access review for an IT admin security group to validate ongoing privileged access need, with documented reviewer decisions and audit log validation.
 
 ---
 
