@@ -14,9 +14,9 @@ Each case study includes:
 
 ## Case Studies
 
-- [Unauthorized MFA Device / Account Compromise](Real-World-Case-Studies/unauthorized-mfa-device-account-compromise/) — ...
-- [Credential Harvesting Campaign](Real-World-Case-Studies/credential-harvesting-campaign/) — ...
-- [DocuSign Spoofing / Phishing Investigation](Real-World-Case-Studies/docusign-spoofing-phishing/) — ...
+- [Unauthorized MFA Device / Account Compromise](unauthorized-mfa-device-account-compromise/)
+- [Credential Harvesting Campaign](credential-harvesting-campaign/)
+- [DocuSign Spoofing / Phishing Investigation](docusign-phishing-investigation/)
 
 ## Sanitization
 
