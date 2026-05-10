@@ -20,6 +20,8 @@ U.S. Army veteran (92A Automated Logistics Specialist, 2007–2011) | Prior DoD 
 
 **Current Role:** Senior Tracking Support Center Representative, 3Si Security Systems — 24x7 SOC supporting financial, retail, and commercial clients
 
+**Concurrent Role (Jan 2025 – Jan 2026):** Service Desk Agent, Logicalis (MSP) — Tier 1 service desk and security incident response across multi-tenant Microsoft environments serving higher-education, healthcare, engineering, and industrial clients; daily use of Microsoft Entra PIM for time-bound privileged access activation
+
 ---
 
 ## Real-World Case Studies (Sanitized)
