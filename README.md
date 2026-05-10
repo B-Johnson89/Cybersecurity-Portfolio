@@ -38,6 +38,7 @@ Hands-on Microsoft Entra ID lab work in a simulated healthcare environment. Buil
 
 - [Microsoft Entra Conditional Access + MFA Lab](Identity-Access-Labs/microsoft-entra-conditional-access-mfa-lab/) — Conditional Access policy framework covering MFA enforcement, legacy authentication blocking, location-based access, and admin role protection, with break-glass account discipline and report-only mode validation.
 - [Microsoft Entra Access Review Lab](Identity-Access-Labs/microsoft-entra-access-review-lab/) — Access review for an IT admin security group to validate ongoing privileged access need, with documented reviewer decisions and audit log validation.
+- [Microsoft Entra Privileged Identity Management Lab](Identity-Access-Labs/microsoft-entra-pim-lab/) — Onboarded service desk roles (Helpdesk Administrator, Authentication Administrator) to PIM with role-specific activation settings, demonstrated activation and approval workflows with MFA/justification/ticket requirements, and validated audit log integrity. Lab design informed by production PIM experience supporting BitLocker recovery operations.
 
 ---
 
