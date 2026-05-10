@@ -135,26 +135,26 @@ This supports least privilege and helps prevent privilege creep.
 
 | Screenshot | Description |
 |---|---|
-| ![PIM groups created](./screenshots/01-pim-groups-created.png) | PIM-related groups created for eligible users and approvers |
-| ![PIM Entra roles overview](./screenshots/02-pim-entra-roles-overview.png) | Microsoft Entra roles opened in Privileged Identity Management |
-| ![Helpdesk role assignments overview](./screenshots/03-helpdesk-admin-role-assignments-overview.png) | Helpdesk Administrator role opened in PIM |
-| ![Helpdesk activation settings](./screenshots/04-helpdesk-admin-activation-settings.png) | Helpdesk Administrator activation settings requiring MFA, justification, ticket information, and approval |
-| ![Helpdesk assignment membership](./screenshots/05-helpdesk-admin-add-eligible-assignment-membership.png) | Mike Iverson selected for Helpdesk Administrator assignment |
-| ![Helpdesk assignment settings](./screenshots/06-helpdesk-admin-eligible-assignment-settings.png) | Helpdesk Administrator assignment configured as eligible |
-| ![Helpdesk eligible assignment created](./screenshots/07-helpdesk-admin-eligible-assignment-created.png) | Mike Iverson added as eligible for Helpdesk Administrator |
-| ![Authentication Administrator overview](./screenshots/08-authentication-admin-role-overview.png) | Authentication Administrator role opened in PIM |
-| ![Authentication Administrator activation settings](./screenshots/09-authentication-admin-activation-settings.png) | Authentication Administrator activation settings configured |
-| ![Authentication Administrator membership](./screenshots/10-authentication-admin-add-eligible-assignment-membership.png) | Mike Iverson selected for Authentication Administrator assignment |
-| ![Authentication Administrator assignment settings](./screenshots/11-authentication-admin-eligible-assignment-settings.png) | Authentication Administrator assignment configured as eligible |
-| ![Authentication Administrator eligible assignment created](./screenshots/12-authentication-admin-eligible-assignment-created.png) | Mike Iverson added as eligible for Authentication Administrator |
-| ![Mike eligible roles](./screenshots/13-mike-iverson-my-eligible-roles.png) | Mike Iverson viewing eligible PIM roles |
-| ![Activation request](./screenshots/14-helpdesk-admin-activation-request.png) | Helpdesk Administrator activation request with justification and ticket information |
-| ![Pending approval](./screenshots/15-helpdesk-admin-activation-pending-approval.png) | Activation request pending approval |
-| ![Approval request pending](./screenshots/16-pim-approval-request-pending.png) | Approver view showing Mike Iverson's pending PIM activation request |
-| ![Audit approval and activation](./screenshots/17-pim-audit-log-approval-and-activation-success.png) | PIM audit log showing approval and activation success |
-| ![Eligible assignments summary](./screenshots/18-pim-eligible-assignments-summary.png) | Summary showing Mike Iverson's eligible privileged role assignments |
-| ![Active role confirmation](./screenshots/19-helpdesk-admin-active-role-confirmation.png) | Helpdesk Administrator role shown as activated for Mike Iverson |
-| ![Final audit history](./screenshots/20-pim-final-audit-history.png) | Final PIM audit history showing assignment, approval, and activation events |
+| ![PIM groups created](./screenshots/01-pim-groups-created.PNG) | PIM-related groups created for eligible users and approvers |
+| ![PIM Entra roles overview](./screenshots/02-pim-entra-roles-overview.PNG) | Microsoft Entra roles opened in Privileged Identity Management |
+| ![Helpdesk role assignments overview](./screenshots/03-helpdesk-admin-role-assignments-overview.PNG) | Helpdesk Administrator role opened in PIM |
+| ![Helpdesk role settings](./screenshots/04-helpdesk-admin-role-settings.PNG) | Helpdesk Administrator settings requiring MFA, justification, ticket information, and approval |
+| ![Helpdesk assignment membership](./screenshots/05-helpdesk-admin-add-eligible-assignment-membership.PNG) | Mike Iverson selected for Helpdesk Administrator assignment |
+| ![Helpdesk assignment settings](./screenshots/06-helpdesk-admin-eligible-assignment-settings.PNG) | Helpdesk Administrator assignment configured as eligible |
+| ![Helpdesk eligible assignment created](./screenshots/07-helpdesk-admin-eligible-assignment-created.PNG) | Mike Iverson added as eligible for Helpdesk Administrator |
+| ![Authentication Administrator overview](./screenshots/08-authentication-admin-role-overview.PNG) | Authentication Administrator role opened in PIM |
+| ![Authentication Administrator activation settings](./screenshots/09-authentication-admin-activation-settings.PNG) | Authentication Administrator activation settings configured |
+| ![Authentication Administrator membership](./screenshots/10-authentication-admin-add-eligible-assignment-membership.PNG) | Mike Iverson selected for Authentication Administrator assignment |
+| ![Authentication Administrator assignment settings](./screenshots/11-authentication-admin-eligible-assignment-settings.PNG) | Authentication Administrator assignment configured as eligible |
+| ![Authentication Administrator eligible assignment created](./screenshots/12-authentication-admin-eligible-assignment-created.PNG) | Mike Iverson added as eligible for Authentication Administrator |
+| ![Mike eligible roles](./screenshots/13-mike-iverson-my-eligible-roles.PNG) | Mike Iverson viewing eligible PIM roles |
+| ![Activation request](./screenshots/14-helpdesk-admin-activation-request.PNG) | Helpdesk Administrator activation request with justification and ticket information |
+| ![Pending approval](./screenshots/15-helpdesk-admin-activation-pending-approval.PNG) | Activation request pending approval |
+| ![Approval request pending](./screenshots/16-pim-approval-request-pending.PNG) | Approver view showing Mike Iverson's pending PIM activation request |
+| ![Approval request approved](./screenshots/17-pim-approval-request-approved.PNG) | PIM approval request approved |
+| ![Audit approval and activation](./screenshots/18-pim-audit-log-approval-and-activation-success.PNG) | PIM audit log showing approval and activation success |
+| ![Active role confirmation](./screenshots/19-helpdesk-admin-active-role-confirmation.PNG) | Helpdesk Administrator role shown as activated for Mike Iverson |
+| ![Final audit history](./screenshots/20-pim-final-audit-history.PNG) | Final PIM audit history showing assignment, approval, and activation events |
 
 ## Notes
 
